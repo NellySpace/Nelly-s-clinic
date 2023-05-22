@@ -1,0 +1,340 @@
+.page_1 {
+  width: 1800px;
+  height: 1000px;
+  font-size: 45px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-image: url(https://img.freepik.com/premium-photo/funny-gray-kitten-and-smiling-dog-with-beautiful-big-eyes-on-trendy-blue-paper_253512-60.jpg?w=2000);
+  background-repeat: no-repeat;
+}
+#img {
+  margin-left: 3%;
+  margin-top: 2%;
+}
+.ppp {
+  color: rgba(6, 57, 187, 0.963);
+  margin-left: 5.5%;
+  margin-top: -4%;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.h11 {
+  font-size: 80px;
+  color: rgba(255, 255, 255, 0.801);
+  text-align: center;
+  margin-top: -7%;
+}
+.pp {
+  text-align: center;
+  margin-top: 25%;
+  font-size: 60px;
+  color: rgba(255, 255, 255, 0.801);
+  text-transform: lowercase;
+}
+
+.page_2 {
+  width: 1800px;
+  height: 1000px;
+  background-color: white;
+}
+#page2h1 {
+  text-align: center;
+  flex-direction: column;
+  margin-top: 5%;
+  color: #2196f3;
+  font-size: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.general_blocks {
+  display: flex;
+  align-items: center;
+  margin-top: 3%;
+  margin-left: 20%;
+  color: #2196f3;
+}
+.block_a {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-right: 7%;
+  margin-left: 3%;
+  font-size: 10px;
+}
+.block_b {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-right: 7%;
+  margin-left: 3%;
+  font-size: 10px;
+}
+.block_c {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-right: 7%;
+  margin-left: 3%;
+  font-size: 10px;
+}
+.button {
+  border: none;
+  outline: none;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Roboto, Verdana, Tahoma, sans;
+  padding: 12px 16px;
+  border-radius: 100px;
+  color: #fff;
+}
+.button i {
+  margin-right: 4px;
+}
+.button + .button {
+  margin-left: 6px;
+}
+.button.blue {
+  background: #2196f3;
+}
+.button:hover {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+.button:hover.blue {
+  background: #39a1f4;
+}
+.button:active {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+.button:active.blue {
+  background: #0d8aee;
+}
+div {
+  margin: 24px;
+  text-align: center;
+}
+.general_blocks2{
+    display: flex;
+    align-items: center;
+    margin-left: 1%;
+    margin-top: 5%;
+    text-align: center;
+  
+}
+#photo{
+    border-radius: 15%;
+}
+.page_3 {
+  width: 1800px;
+  height: 1000px;
+  background-color: #2195f3d1;
+  opacity: 0.9;
+  color: rgb(45, 43, 43);
+  text-align: center;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.blocks_part1 {
+  display: flex;
+  align-items: center;
+  margin-top: 3%;
+}
+.block_1 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 4%;
+  text-align: justify;
+  padding: 18%;
+  font-size: 18px;
+  background-image: url(https://gamerwall.pro/uploads/posts/2022-09/1662430975_1-gamerwall-pro-p-samaya-milaya-sobaka-zhivotnie-1.jpg);
+  border-radius: 100px;
+  border: 3px solid rgb(169, 147, 5);
+  box-shadow: 0 0 7px #666;
+}
+.block_2 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  flex-direction: column;
+  margin-right: 2%;
+  padding: 20%;
+  font-size: 18px;
+  background-image: url(https://gamerwall.pro/uploads/posts/2022-09/1662426032_1-gamerwall-pro-p-samaya-milaya-koshka-v-mire-pinterest-1.jpg);
+  border-radius: 100px;
+  border: 3px solid rgb(169, 147, 5);
+  box-shadow: 0 0 7px #666;
+}
+.blocks_part2 {
+  display: flex;
+  align-items: center;
+  margin-top: 3%;
+}
+.block_3 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  flex-direction: column;
+  margin-right: 3%;
+  padding: 17%;
+  font-size: 18px;
+  background-image: url(https://img.freepik.com/premium-photo/a-beautiful-cat-photo-beautiful-cat-cute-cat-cat-picpet_860112-7.jpg);
+  border-radius: 100px;
+  border: 3px solid rgb(169, 147, 5);
+  box-shadow: 0 0 7px #666;
+}
+.block_4 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+
+  flex-direction: column;
+  margin-right: 7%;
+  padding: 15%;
+  font-size: 18px;
+  background-image: url(https://99px.ru/sstorage/56/2012/12/image_562212120412296500091.jpg);
+  border-radius: 100px;
+  border: 3px solid rgb(169, 147, 5);
+  box-shadow: 0 0 7px #666;
+}
+.page_4 {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  opacity: 0.9;
+  color: rgb(235, 187, 42);
+  font-family: "Times New Roman", Times, serif;
+}
+.general_blocks3 {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-bottom: 20%;
+  margin-top: 10%;
+}
+.block_f {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  font-size: 20px;
+  margin: 20px;
+}
+.block_s {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.page_5 {
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.name {
+  text-transform: uppercase;
+}
+.storona_1 {
+  width: 100%;
+  height: auto;
+  border-radius: 100px;
+  background-image: url(https://cs8.pikabu.ru/post_img/big/2017/01/26/6/1485423086165392478.jpg);
+  background-repeat: no-repeat;
+  box-shadow: 0 0 7px #666;
+  margin-right: 2%;
+  padding-bottom: 20%;
+}
+#h11 {
+  font-size: 200%;
+  font-family: Roboto;
+  color: white;
+  text-align: center;
+}
+.storona_2 {
+  background-color: rgb(223, 168, 51);
+  width: 100%;
+  height: 1000px;
+  font-size: 200%;
+  border-radius: 100px;
+  box-shadow: 0 0 7px #666;
+  color: white;
+  padding: 2%;
+}
+.page_6 {
+  margin-top: 5%;
+  width: auto;
+  height: auto;
+}
+#h111 {
+  text-align: center;
+  color: rgb(235, 162, 27);
+  font-size: 130px;
+}
+#hyhy {
+  font-size: 30px;
+}
+.general_block2 {
+  display: flex;
+  align-items: center;
+  margin-top: 8%;
+}
+.block_12 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 3%;
+  padding: 5%;
+  color: black;
+  text-align: center;
+  font-size: 19px;
+}
+.block_22 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 3%;
+  padding: 5%;
+  color: black;
+  text-align: center;
+  font-size: 19px;
+}
+.block_32 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 3%;
+  padding: 5%;
+  color: black;
+  text-align: center;
+  font-size: 19px;
+}
+#oo1 {
+  border-radius: 300px;
+}
+#hfhf {
+  color: rgb(218, 167, 28);
+}
+.footer {
+  background-color: rgb(196, 182, 27);
+  color: rgb(234, 238, 241);
+  font-size: 20px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-top: 10%;
+}
